@@ -1,7 +1,7 @@
 I'm Brayan Moreno 😄
 
 - 🌱 I’m currently learning ReactJS
-- 📫 I'm want to learn about: Design Paterns, unit testing
+- 📫 I want to learn about: Design Paterns, unit testing and in addition improve my talking skills
 <!--
 **JustPya/JustPya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
