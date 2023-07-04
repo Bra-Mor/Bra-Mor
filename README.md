@@ -1,9 +1,11 @@
-### Hi there 👋
+I'm Brayan Moreno 😄
 
+- 🌱 I’m currently learning ReactJS
+- 📫 I'm want to learn about: Design Paterns, unit testing
 <!--
-**Morenu-97/Morenu-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JustPya/JustPya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you 💻started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
