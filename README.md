@@ -11,10 +11,3 @@
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Serenity BDD](https://img.shields.io/badge/Serenity-6DB33F?style=for-the-badge&logo=serenity&logoColor=white) ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 
 **Languages:** Java | JavaScript | TypeScript | Gherkin
-
----
-
-## 📫 Let’s Connect
-
-💼 [LinkedIn](https://www.linkedin.com)  
-📬 bramoreno.dev@gmail.com
